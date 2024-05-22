@@ -29,11 +29,6 @@ The following Python packages are required for this project:
 - `gunicorn==21.2.0`
 - `psycopg2-binary==2.9.9`
 
-## Installation
+## Hosted Version
 
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/your-flask-blog.git
-   cd your-flask-blog
+You can view the live version of the blog application [here](https://blog-for-deployment-2.onrender.com/post/1).
